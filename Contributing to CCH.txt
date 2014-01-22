@@ -1,3 +1,0 @@
-This repository is for the Grameen Ghana CCH programme, which will be developed for Android smartphones. 
-To add code to the repository, just send a git pull request to the 
-The code will then have to be reviewed. 
