@@ -8,7 +8,12 @@ import android.app.Activity;
 import android.content.Intent;
 import android.view.Menu;
 
+/*
+ * This Activity creates a splash screen and leads to the loging page
+ * 
+ */
 public class StartUpActivity extends Activity {
+	
     private final int SPLASH_DISPLAY_LENGHT = 1000;
     
 	@Override
