@@ -522,6 +522,7 @@ int layout activity_monitor 0x7f03001e
 int layout activity_points 0x7f03001f
 int layout activity_register 0x7f030020
 int layout activity_scorecard 0x7f030021
+<<<<<<< HEAD
 int layout activity_sign_up 0x7f030022
 int layout activity_startup 0x7f030023
 int layout course_download_row 0x7f030024
@@ -550,6 +551,34 @@ int layout widget_quiz_numerical 0x7f03003a
 int layout widget_quiz_results 0x7f03003b
 int layout widget_quiz_shortanswer 0x7f03003c
 int layout widget_resource 0x7f03003d
+=======
+int layout activity_startup 0x7f030022
+int layout course_download_row 0x7f030023
+int layout course_list_row 0x7f030024
+int layout media_download_row 0x7f030025
+int layout points 0x7f030026
+int layout points_list_row 0x7f030027
+int layout schedule_reminder 0x7f030028
+int layout schedule_reminder_list_row 0x7f030029
+int layout section_horizonal_item 0x7f03002a
+int layout section_list_row 0x7f03002b
+int layout sherlock_spinner_dropdown_item 0x7f03002c
+int layout sherlock_spinner_item 0x7f03002d
+int layout start_up 0x7f03002e
+int layout tag_row 0x7f03002f
+int layout user_message 0x7f030030
+int layout widget_page 0x7f030031
+int layout widget_quiz 0x7f030032
+int layout widget_quiz_essay 0x7f030033
+int layout widget_quiz_feedback_row 0x7f030034
+int layout widget_quiz_matching 0x7f030035
+int layout widget_quiz_multichoice 0x7f030036
+int layout widget_quiz_multiselect 0x7f030037
+int layout widget_quiz_numerical 0x7f030038
+int layout widget_quiz_results 0x7f030039
+int layout widget_quiz_shortanswer 0x7f03003a
+int layout widget_resource 0x7f03003b
+>>>>>>> fixed login screen and splash screen
 int menu activity_course 0x7f0e0000
 int menu activity_course_index 0x7f0e0001
 int menu activity_login 0x7f0e0002

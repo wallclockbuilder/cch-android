@@ -1201,6 +1201,7 @@ containing a value of this type.
         public static final int activity_points=0x7f03001f;
         public static final int activity_register=0x7f030020;
         public static final int activity_scorecard=0x7f030021;
+<<<<<<< HEAD
         public static final int activity_sign_up=0x7f030022;
         public static final int activity_startup=0x7f030023;
         public static final int course_download_row=0x7f030024;
@@ -1229,6 +1230,34 @@ containing a value of this type.
         public static final int widget_quiz_results=0x7f03003b;
         public static final int widget_quiz_shortanswer=0x7f03003c;
         public static final int widget_resource=0x7f03003d;
+=======
+        public static final int activity_startup=0x7f030022;
+        public static final int course_download_row=0x7f030023;
+        public static final int course_list_row=0x7f030024;
+        public static final int media_download_row=0x7f030025;
+        public static final int points=0x7f030026;
+        public static final int points_list_row=0x7f030027;
+        public static final int schedule_reminder=0x7f030028;
+        public static final int schedule_reminder_list_row=0x7f030029;
+        public static final int section_horizonal_item=0x7f03002a;
+        public static final int section_list_row=0x7f03002b;
+        public static final int sherlock_spinner_dropdown_item=0x7f03002c;
+        public static final int sherlock_spinner_item=0x7f03002d;
+        public static final int start_up=0x7f03002e;
+        public static final int tag_row=0x7f03002f;
+        public static final int user_message=0x7f030030;
+        public static final int widget_page=0x7f030031;
+        public static final int widget_quiz=0x7f030032;
+        public static final int widget_quiz_essay=0x7f030033;
+        public static final int widget_quiz_feedback_row=0x7f030034;
+        public static final int widget_quiz_matching=0x7f030035;
+        public static final int widget_quiz_multichoice=0x7f030036;
+        public static final int widget_quiz_multiselect=0x7f030037;
+        public static final int widget_quiz_numerical=0x7f030038;
+        public static final int widget_quiz_results=0x7f030039;
+        public static final int widget_quiz_shortanswer=0x7f03003a;
+        public static final int widget_resource=0x7f03003b;
+>>>>>>> fixed login screen and splash screen
     }
     public static final class menu {
         public static final int activity_course=0x7f0e0000;
